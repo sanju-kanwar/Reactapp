@@ -1,0 +1,36 @@
+  {
+  "info1":[
+     {
+    "id": "1",
+    "Name": "SAnju",
+    "City": "Jaipur"
+},
+
+{
+    "id": "2",
+    "Name": "sunil",
+    "City": "kota"
+},
+{
+    "id": "3",
+    "Name": "mAnju",
+    "City": "Jaipur"
+},
+{
+    "id": "4",
+    "Name": "SAnju kanwar",
+    "City": "sikar"
+},
+{
+    "id": "5",
+    "Name": "SAnju shekhawat",
+    "City": "ajmer"
+},
+{
+    "id": "6",
+    "Name": "Sunil",
+    "City": "sikar"
+}
+]
+  }
+  
